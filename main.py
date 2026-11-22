@@ -1,1 +1,1 @@
-print("My first GitHub project")
+print("hello world")
